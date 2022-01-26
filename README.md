@@ -1,5 +1,5 @@
 # VideoCompress
-A Telegram Video Compressor Bot By [@mayank1rajput](https://t.me/hackelite01). **This bot works for all!** No need to define each user IDs to use bot. Also works in Group.
+A Telegram Video Compressor Bot By [Mayank Rajput](https://t.me/hackelite01). **This bot works for all!** No need to define each user IDs to use bot. Also works in Group.
 
 ### Special Features:
 - Bot's Live Status on Channel
